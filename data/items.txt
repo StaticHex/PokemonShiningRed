@@ -1,0 +1,537 @@
+0|Null Item|N/A|0P|0|-|0|-|This item does not exist.
+1|Master Ball|N/A|0P|0|-|0|-|Always successful Do not have to roll when catching a pokemon
+2|Ultra Ball|1200P|600P|0|-|0|-|Base catch rate: 6. A ball for catching pokemon.
+3|Great Ball|600P|300P|0|-|0|-|Base catch rate: 3. A ball for catching pokemon.
+4|Poke Ball|200P|100P|0|-|0|-|Base catch rate: 0. A ball for catching pokemon.
+5|Safari Ball|N/A|0P|0|-|0|-|Base catch rate: 3. A ball for catching pokemon in the safari zone.
+6|Net Ball|1000P|500P|0|-|0|-|Base catch rate: 0. If used on a water or bug type pokemon, catch rate is: 7
+7|Dive Ball|1000P|500P|0|-|0|-|Base catch rate: 0. If used underwater, catch rate is: 7
+8|Nest Ball|1000P|500P|0|-|0|-|Base catch rate: 0. Add 1 point for every 5 levels above the opposing pokemon you are.
+9|Repeat Ball|1000P|500P|0|-|0|-|Base catch rate: 0. If the pokemon has already been caught before, catch rate is: 6
+10|Timer Ball|1000P|500P|0|-|0|-|Base catch rate: 0. Goes up by 1 for every turn passed in battle.
+11|Luxury Ball|1000P|500P|0|-|0|-|Base catch rate: 0. Any time a pokemon would gain 1 friendship, it gains 2 instead
+12|Premier Ball|200P|100P|0|-|0|-|Base catch rate: 0. Get one free for every 10 pokeballs purchased.
+13|Dusk Ball|1000P|500P|0|-|0|-|Base catch rate: 0. If used in caves or at night, catch rate is: 7.
+14|Heal Ball|300P|150P|0|-|0|-|Base catch rate: 0. Fully restores caught pokemon's HP, PP, and status.
+15|Quick Ball|1000P|500P|0|-|0|-|Base catch rate: 0. If used on the first turn of battle, catch rate is: 7.
+16|Cherish Ball|N/A|0P|0|-|0|-|Base catch rate: 0. Used to present event pokemon or pokemon given as prizes.
+17|Potion|300P|150P|30|-|0|-|Restores 20HP to a single pokemon.
+18|Antidote|100P|50P|30|-|0|-|Cures a single pokemon of poison or deadly poison.
+19|Burn Heal|250P|125P|30|-|0|-|Cures a single pokemon suffering of a burn.
+20|Ice Heal|250P|125P|30|-|0|-|Thaws out a single frozen pokemon.
+21|Awakening|200P|100P|30|-|0|-|Awakens a single pokemon which has been put to sleep.
+22|Paralyze Heal|200P|100P|30|-|0|-|Cures a single pokemon of paralysis.
+23|Full Restore|3000P|1500P|30|-|0|-|Restores a pokemon to full HP and removes any/all status effects.
+24|Max Potion|2500P|1250P|30|-|0|-|Restores a pokemon to full HP.
+25|Hyper Potion|1200P|600P|30|-|0|-|Restores 200HP to a single pokemon.
+26|Super Potion|700P|350P|30|-|0|-|Restores 50HP to a single pokemon
+27|Full Heal|600P|300P|30|-|0|-|Cures a single pokemon of all status effects.
+28|Revive|1500P|750P|30|-|0|-|Revives a fainted pokemon and restores 1/2 of its max HP.
+29|Max Revive|N/A|2000P|30|-|0|-|Revives a fainted pokemon and fully restores its HP.
+30|Fresh Water|200P|100P|30|-|0|-|Restores 50HP to a single pokemon.
+31|Soda Pop|300P|150P|30|-|0|-|Restores 60HP to a single pokemon.
+32|Lemonade|350P|175P|30|-|0|-|Restores 80HP to a single pokemon.
+33|Moomoo Milk|500P|250P|30|-|0|-|Restores 100HP to a single pokemon.
+34|EnergyPowder|500P|250P|30|-|0|-|Restores 50HP to a single pokemon. Using this decreases friendship by 2 points.
+35|Energy Root|800P|400P|30|-|0|-|Restores 200HP to a single pokemon. Using this decreases friendship by 2 points.
+36|Heal Powder|450P|225P|30|-|0|-|Cures all status effects. Using this decreases friendship by 2 points.
+37|Revival Herb|2800P|1400P|30|-|0|-|Revives fainted pokemon and fully restores HP. Using this decreases friendship by 2 points.
+38|Ether|N/A|600P|30|-|0|-|Restores the PP of a single move by 10.
+39|Max Ether|N/A|1000P|30|-|0|-|Fully restores the PP of a single move.
+40|Elixir|N/A|1500P|30|-|0|-|Restores the PP of all of a single pokemon's moves by 10.
+41|Max Elixir|N/A|2250P|30|-|0|-|Fully restores the PP of all of a single pokemon's moves.
+42|Lava Cookie|200P|100P|30|-|0|-|Lavaridge Town's local specialty. Heals all the status problems of a single pokemon.
+43|Berry Juice|1500P|50P|30|-|0|-|Restores 20HP to a single pokemon. Can be activated as a held item.
+44|Sacred Ash|N/A|100P|30|-|0|-|Revives all fainted pokemon and fully recovers their HP.
+45|HP Up|9800P|4900P|30|-|0|-|Raises the base HP of a single pokemon by 5 points. Raises friendship by 2 points when used.
+46|Protein|9800P|4900P|30|-|0|-|Raises the base ATK of a single pokemon by 5 points. Raises friendship by 2 points when used.
+47|Iron|9800P|4900P|30|-|0|-|Raises the base DEF of a single pokemon by 5 points. Raises friendship by 2 points when used.
+48|Carbos|9800P|4900P|30|-|0|-|Raises the base SPD of a single pokemon by 5 points. Raises friendship by 2 points when used.
+49|Calcium|9800P|4900P|30|-|0|-|Raises the base SP. ATK of a single pokemon by 5 points. Raises friendship by 2 points when used.
+50|Rare Candy|N/A|2400P|30|-|0|-|Raises the level of a single pokemon by 1.
+51|PP Up|N/A|4900P|30|-|0|-|Increases the PP of the selected move by it's PP Up rate.
+52|Zinc|9800P|4900P|30|-|0|-|Raises the base SP. DEF of a single pokemon by 5 points. Raises friendship by 2 points when used.
+53|PP Max|N/A|4900P|30|-|0|-|Raises the PP of a move to its maximum points.
+54|Old Gateau|N/A|100P|30|-|0|-|Old Chateau's hidden specialty. It heals all status problems of a single pokemon.
+55|Guard Spec.|700P|350P|30|-|0|-|Prevents stat reduction by opponent's moves for the user's party for 5 turns.
+56|Dire Hit|650P|325P|30|-|0|-|Raises the critical hit ratio for all moves for a single pokemon in battle. Roll 17 or higher on the status die to score a critical hit
+57|X Attack|350P|175P|30|-|0|-|Raises the ATK of a single pokemon in battle by 40 points.
+58|X Defend|350P|175P|30|-|0|-|Raises the DEF of a single pokemon in battle by 40 points.
+59|X Speed|350P|175P|30|-|0|-|Raises the SPD of a single pokemon in battle by 40 points.
+60|X Accuracy|950P|475P|30|-|0|-|Raises the accuracy of all moves for a single pokemon in battle by 5%.
+61|X Sp. Atk|350P|175P|30|-|0|-|Raises the SP. ATK of a single pokemon in battle by 40 points.
+62|X Sp. Def|350P|175P|30|-|0|-|Raises the SP. DEF of a single pokemon in battle by 40 points.
+63|Poké Doll|1000P|500P|30|-|0|-|Use during a battle against a wild pokemon to escape from battle.
+64|Fluffy Tail|N/A|500P|30|-|0|-|Use to flee from any battle with a wild pokemon.
+65|Blue Flute|N/A|200P|30|-|0|-|A glass flute that wakes a sleeping pokemon
+66|Yellow Flute|N/A|200P|30|-|0|-|A glass flute that snaps pokemon out of confusion
+67|Red Flute|N/A|200P|30|-|0|-|A glass flute that snaps a pokemon out of infatuation
+68|Black Flute|N/A|200P|30|-|0|-|A glass flute that keeps away wild pokemon
+69|White Flute|N/A|200P|30|-|0|-|A glass flute that lures wild pokemon
+70|Shoal Salt|N/A|10P|30|-|0|-|Salt obtained from deep inside the shoal cave in the Hoenn region.
+71|Shoal Shell|N/A|10P|30|-|0|-|A seashell found deep inside the shoal cave in the Hoenn region.
+72|Red Shard|N/A|100P|30|-|0|-|A shard from an ancient item. Some places use these as currency.
+73|Blue Shard|N/A|100P|30|-|0|-|A shard from an ancient item. Some places use these as currency.
+74|Yellow Shard|N/A|100P|30|-|0|-|A shard from an ancient item. Some places use these as currency.
+75|Green Shard|N/A|100P|30|-|0|-|A shard from an ancient item. Some places use these as currency.
+76|Super Repel|500P|250P|30|-|0|-|Prevents weak wild pokemon from appearing for 200 steps (approx 150m/490ft)
+77|Max Repel|700P|350P|30|-|0|-|Prevents weak wild pokemon from appearing for 250 steps (approx 190m/620ft)
+78|Escape Rope|550P|275P|30|-|0|-|A long, durable rope. Use it to escape instantly from a cave or a dungeon.
+79|Repel|350P|175P|30|-|0|-|Prevents weak wild pokemon from appearing for 100 steps (approx 75m/245ft)
+80|Sun Stone|N/A|1050P|30|-|0|-|A peculiar stone that makes certain species of pokemon evolve. It is as red as the sun.
+81|Moon Stone|N/A|1050P|30|-|0|-|A peculiar stone that makes certain species of pokemon evolve. It is as black as the night sky.
+82|Fire Stone|2100P|1050P|30|-|0|-|A peculiar stone that makes certain species of pokemon evolve. It is colored orange.
+83|Thunder Stone|2100P|1050P|30|-|0|-|A peculiar stone that makes certain species of pokemon evolve. It has a thunderbolt pattern.
+84|Water Stone|2100P|1050P|30|-|0|-|A peculiar stone that makes certain species of pokemon evolve. It is a clear, light blue.
+85|Leaf Stone|2100P|1050P|30|-|0|-|A peculiar stone that makes certain species of pokemon evolve. It has a leaf pattern.
+86|TinyMushroom|N/A|250P|30|-|0|-|A small and rare mushroom. It is quite popular among certain maniacal fan segments.
+87|Big Mushroom|N/A|2500P|30|-|0|-|A large an rare mushroom. It is very popular among certain maniacal fan segments.
+88|Pearl|N/A|700P|30|-|0|-|A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
+89|Big Pearl|N/A|3750P|30|-|0|-|A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
+90|Stardust|N/A|1000P|30|-|0|-|Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.
+91|Star Piece|N/A|4900P|30|-|0|-|A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
+92|Nugget|N/A|5000P|30|-|0|-|A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+93|Heart Scale|N/A|50P|30|-|0|-|A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.
+94|Honey|100P|50P|30|-|0|-|Spread on trees to attract pokemon (GM determines what you attract.)
+95|Growth Mulch|200P|100P|30|-|0|-|Speeds up growth of plants from 4 sessions to 1 session. However, have to water twice as often to get bonus.
+96|Damp Mulch|200P|100P|30|-|0|-|Slows down growth of plants from 4 sessions to 6 sessions. However, have to water only half as often to get bonus.
+97|Stable Mulch|200P|100P|30|-|0|-|Berries and other plants stay on the stalk for 2 extra sessions after ripe before dropping off and rotting.
+98|Gooey Mulch|200P|100P|30|-|0|-|Berries and other plants which drop off and rot grow new plants with 2x the yield.
+99|Root Fossil|N/A|500P|100|-|0|-|A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
+100|Claw Fossil|N/A|500P|100|-|0|-|A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.
+101|Helix Fossil|N/A|500P|100|-|0|-|A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
+102|Dome Fossil|N/A|500P|100|-|0|-|A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
+103|Old Amber|N/A|500P|100|-|0|-|A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint.
+104|Armor Fossil|N/A|500P|100|-|0|-|A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
+105|Skull Fossil|N/A|500P|100|-|0|-|A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
+106|Rare Bone|N/A|5000P|100|-|0|-|A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.
+107|Shiny Stone|N/A|1050P|80|-|0|-|A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
+108|Dusk Stone|N/A|1050P|80|-|0|-|A peculiar stone that can make certain species of Pokémon evolve. It holds shadows as dark as can be.
+109|Dawn Stone|N/A|1050P|80|-|0|-|A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
+110|Oval Stone|N/A|1050P|80|-|0|-|A peculiar stone that can make certain species of Pokémon evolve. It's as round as a Pokémon Egg.
+111|Odd Keystone|N/A|1050P|80|-|0|-|A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
+112|Griseous Orb|10000P|0P|60|-|0|-|Boosts the power of Dragon- and Ghost-type moves by 1d10 when held by Giratina. Transforms Giratina.
+113|unknown|N/A|0P|0|-|0|-|This is null.
+114|unknown|N/A|0P|0|-|0|-|This is null.
+115|unknown|N/A|0P|0|-|0|-|This is null.
+116|unknown|N/A|0P|0|-|0|-|This is null.
+117|unknown|N/A|0P|0|-|0|-|This is null.
+118|unknown|N/A|0P|0|-|0|-|This is null.
+119|unknown|N/A|0P|0|-|0|-|This is null.
+120|unknown|N/A|0P|0|-|0|-|This is null.
+121|unknown|N/A|0P|0|-|0|-|This is null.
+122|unknown|N/A|0P|0|-|0|-|This is null.
+123|unknown|N/A|0P|0|-|0|-|This is null.
+124|unknown|N/A|0P|0|-|0|-|This is null.
+125|unknown|N/A|0P|0|-|0|-|This is null.
+126|unknown|N/A|0P|0|-|0|-|This is null.
+127|unknown|N/A|0P|0|-|0|-|This is null.
+128|unknown|N/A|0P|0|-|0|-|This is null.
+129|unknown|N/A|0P|0|-|0|-|This is null.
+130|unknown|N/A|0P|0|-|0|-|This is null.
+131|unknown|N/A|0P|0|-|0|-|This is null.
+132|unknown|N/A|0P|0|-|0|-|This is null.
+133|unknown|N/A|0P|0|-|0|-|This is null.
+134|unknown|N/A|0P|0|-|0|-|This is null.
+135|Adamant Orb|10000P|0P|60|-|0|-|Boosts the power of Dragon- and Steel-type moves by 1d10 when held by Dialga.
+136|Lustrous Orb|10000P|0P|60|-|0|-|Boosts the power of Dragon- and Water-type moves by 1d10 when held by Palkia.
+137|Grass Mail|50P|25P|0|-|0|-|Stationery featuring a print of a refreshingly green field. Let a Pokémon hold it for delivery.
+138|Flame Mail|50P|25P|0|-|0|-|Stationery featuring a print of flames in blazing red. Let a Pokémon hold it for delivery.
+139|Bubble Mail|50P|25P|0|-|0|-|Stationery featuring a print of a blue world underwater. Let a Pokémon hold it for delivery.
+140|Bloom Mail|50P|25P|0|-|0|-|Stationery featuring a print of pretty floral patterns. Let a Pokémon hold it for delivery.
+141|Tunnel Mail|50P|25P|0|-|0|-|Stationery featuring a print of dimly lit coal mine. Let a Pokémon hold it for delivery.
+142|Steel Mail|50P|25P|0|-|0|-|Stationery featuring a print of cool mechanical designs. Let a Pokémon hold it for delivery.
+143|Heart Mail|50P|25P|0|-|0|-|Stationery featuring a print of giant heart patterns. Let a Pokémon hold it for delivery.
+144|Snow Mail|50P|25P|0|-|0|-|Stationery featuring a print of a chilly, snow-covered world. Let a Pokémon hold it for delivery.
+145|Space Mail|50P|25P|0|-|0|-|Stationery featuring a print depicting the huge expanse of space. Let a Pokémon hold it for delivery.
+146|Air Mail|50P|25P|0|-|0|-|Stationery featuring a print of colorful letter sets. Let a Pokémon hold it for delivery.
+147|Mosaic Mail|50P|25P|0|-|0|-|Stationery featuring a print of a vivid rainbow pattern. Let a Pokémon hold it for delivery.
+148|Brick Mail|50P|25P|0|-|0|-|Stationery featuring a print of a tough-looking brick pattern. Let a Pokémon hold it for delivery.
+149|Cheri Berry|N/A|0P|10|-|60|Fire|A hold item that heals paralysis in battle.
+150|Chesto Berry|N/A|0P|10|-|60|Water|A hold item that awakens Pokémon in battle.
+151|Pecha Berry|N/A|0P|10|-|60|Electric|A hold item that heals poisoning in battle.
+152|Rawst Berry|N/A|0P|10|-|60|Grass|A hold item that heals a burn in battle.
+153|Aspear Berry|N/A|0P|10|-|60|Ice|A hold item that defrosts Pokémon in battle.
+154|Leppa Berry|N/A|0P|10|-|60|Fighting|A hold item that restores 10 PP of a single depleted move in battle.
+155|Oran Berry|N/A|0P|10|-|60|Poison|A hold item that restores 10 HP in battle.
+156|Persim Berry|N/A|0P|10|-|60|Ground|A hold item that heals confusion in battle.
+157|Lum Berry|N/A|0P|10|-|60|Flying|A hold item that heals any status ailment in battle.
+158|Sitrus Berry|N/A|0P|10|-|60|Psychic|A hold item that restores 30 HP in battle.
+159|Figy Berry|N/A|0P|10|-|60|Bug|A hold item that restores 60 HP but confuses pokemon who hate spicy food.
+160|Wiki Berry|N/A|0P|10|-|60|Rock|A hold item that restores 60 HP but confuses pokemon who hate dry food.
+161|Mago Berry|N/A|0P|10|-|60|Ghost|A hold item that restores 60 HP but confuses pokemon who hate sweet food.
+162|Aguav Berry|N/A|0P|10|-|60|Dragon|A hold item that restores 60 HP but confuses pokemon who hate bitter food.
+163|Iapapa Berry|N/A|0P|10|-|60|Dark|A hold item that restores 60 HP but confuses pokemon who hate sour food.
+164|Razz Berry|N/A|0P|10|-|60|Steel|Can be ground up into powder as an ingredient for medicine. Its red flesh is spicy when eaten.
+165|Bluk Berry|N/A|0P|10|-|70|Fire|Can be ground up into powder as an ingredient for medicine. Its blue flesh is sour when eaten.
+166|Nanab Berry|N/A|0P|10|-|70|Water|Can be ground up into powder as an ingredient for medicine. Its pink flesh is sweet when eaten.
+167|Wepear Berry|N/A|0P|10|-|70|Electric|Can be ground up into powder as an ingredient for medicine. Its green flesh is bitter when eaten.
+168|Pinap Berry|N/A|0P|10|-|70|Grass|Can be ground up into powder as an ingredient for medicine. Its yellow flesh is sour when eaten.
+169|Pomeg Berry|N/A|0P|10|-|70|Ice|Raises pokemon's friendship by 1 point, Lowers HP by 2 points.
+170|Kelpsy Berry|N/A|0P|10|-|70|Fighting|Raises pokemon's friendship by 1 points, Lowers ATK by 2 points.
+171|Qualot Berry|N/A|0P|10|-|70|Poison|Raises pokemon's friendship by 1 points, lowers DEF by 2 points.
+172|Hondew Berry|N/A|0P|10|-|70|Ground|Raises pokemon's friendship by 1 points, lowers SP. ATK by 2 points.
+173|Grepa Berry|N/A|0P|10|-|70|Flying|Raises pokemon's friendship by 1 points, lowers SP. DEF by 2 points.
+174|Tamato Berry|N/A|0P|10|-|70|Psychic|Raises pokemon's friendship by 1 points, lowers SPD by 2 points.
+175|Cornn Berry|N/A|0P|10|-|70|Bug|Can be ground up into powder as an ingredient for medicine.
+176|Magost Berry|N/A|0P|10|-|70|Rock|Can be ground up into powder as an ingredient for medicine.
+177|Rabuta Berry|N/A|0P|10|-|70|Ghost|Can be ground up into powder as an ingredient for medicine.
+178|Nomel Berry|N/A|0P|10|-|70|Dragon|Can be ground up into powder as an ingredient for medicine.
+179|Spelon Berry|N/A|0P|10|-|70|Dark|Can be ground up into powder as an ingredient for medicine.
+180|Pamtre Berry|N/A|0P|10|-|70|Steel|Can be ground up into powder as an ingredient for medicine.
+181|Watmel Berry|N/A|0P|10|-|80|Fire|Can be ground up into powder as an ingredient for medicine.
+182|Durin Berry|N/A|0P|10|-|80|Water|Can be ground up into powder as an ingredient for medicine.
+183|Belue Berry|N/A|0P|10|-|80|Electric|Can be ground up into powder as an ingredient for medicine.
+184|Occa Berry|N/A|0P|10|-|60|Fire|Halves the damage taken from a supereffective Fire-type move
+185|Passho Berry|N/A|0P|10|-|60|Water|Halves the damage taken from a supereffective Water-type move
+186|Wacan Berry|N/A|0P|10|-|60|Electric|Halves the damage taken from a supereffective Electric-type move
+187|Rindo Berry|N/A|0P|10|-|60|Grass|Halves the damage taken from a supereffective Grass-type move
+188|Yache Berry|N/A|0P|10|-|60|Ice|Halves the damage taken from a supereffective Ice-type move
+189|Chople Berry|N/A|0P|10|-|60|Fighting|Halves the damage taken from a supereffective Fighting-type move
+190|Kebia Berry|N/A|0P|10|-|60|Poison|Halves the damage taken from a supereffective Poison-type move
+191|Shuca Berry|N/A|0P|10|-|60|Ground|Halves the damage taken from a supereffective Ground-type move
+192|Coba Berry|N/A|0P|10|-|60|Flying|Halves the damage taken from a supereffective Flying-type move
+193|Payapa Berry|N/A|0P|10|-|60|Psychic|Halves the damage taken from a supereffective Psychic-type move
+194|Tanga Berry|N/A|0P|10|-|60|Bug|Halves the damage taken from a supereffective Bug-type move
+195|Charti Berry|N/A|0P|10|-|60|Rock|Halves the damage taken from a supereffective Rock-type move
+196|Kasib Berry|N/A|0P|10|-|60|Ghost|Halves the damage taken from a supereffective Ghost-type move
+197|Haban Berry|N/A|0P|10|-|60|Dragon|Halves the damage taken from a supereffective Dragon-type move
+198|Colbur Berry|N/A|0P|10|-|60|Dark|Halves the damage taken from a supereffective Dark-type move
+199|Babiri Berry|N/A|0P|10|-|60|Steel|Halves the damage taken from a supereffective Steel-type move
+200|Chilan Berry|N/A|0P|10|-|60|nature type|Halves the damage taken from a Normal-type move.
+201|Liechi Berry|N/A|0P|10|-|80|Grass|Increases ATK by 40 points when HP is below 1/4
+202|Ganlon Berry|N/A|0P|10|-|80|Ice|Increases DEF by 40 points when HP is below 1/4
+203|Salac Berry|N/A|0P|10|-|80|Fighting|Increases SPD by 40 points when HP is below 1/4
+204|Petaya Berry|N/A|0P|10|-|80|Poison|Increases SP. ATK by 40 points when HP is below 1/4
+205|Apicot Berry|N/A|0P|10|-|80|Ground|Increases SP. DEF by 40 points when HP is below 1/4
+206|Lansat Berry|N/A|0P|10|-|80|Flying|When HP is below 1/4 roll 17 or higher on status die to score critical hit.
+207|Starf Berry|N/A|0P|10|-|80|Psychic|When HP is below 1/4 roll 1d6 and raise 1 stat by 40 points where 1 = HP, 2 = ATK, 3 = DEF, 4 = SP. ATK, 5 = SP. DEF, 6 = SPD
+208|Enigma Berry|N/A|0P|10|-|80|Bug|Restores 1/4 of max HP when hit with a super-effective move.
+209|Micle Berry|N/A|0P|10|-|80|Rock|Next move will ignore accuracy and evasion checks; additionally non-OHKO moves have chance to break through Protect and Detect with chance equal to 100%-move's accuracy
+210|Custap Berry|N/A|0P|10|-|80|Ghost|Allows the user to move first in its priority bracket when HP is below 1/4 (same priority as quick attack).
+211|Jaboca Berry|N/A|0P|10|-|80|Dragon|If an opposing pokemon's physical move lands, the foe takes damage equal to 1d20.
+212|Rowap Berry|N/A|0P|10|-|80|Dark|If an opposing pokemon's special move lands, the foe takes damage equal to 1d20.
+213|BrightPowder|N/A|5P|10|-|0|-|An item to be held by a Pokémon. It casts a tricky glare that lowers the accuracy of opposing pokemon's moves by 10%.
+214|White Herb|N/A|50P|10|Restores lowered stats of the target|0|-|An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.
+215|Macho Brace|N/A|1500P|60|-|0|-|If a pokemon equipped with this would gain any stat points (excluding level up and items.) that pokemon gains 2x the stat points instead. Speed is halved as long as this is equipped.
+216|Exp. Share|N/A|1500P|30|-|0|-|An item to be held by a Pokémon. The holder gets a share of a battle's Exp. Points without battling.
+217|Quick Claw|N/A|100P|80|-|0|-|Roll 17 or higher on 1d20 at beginning of turn to ensure attack goes first regardless of speed (same speed as quick attack).
+218|Soothe Bell|N/A|50P|10|-|0|-|If a pokemon equipped with this item would gain any friendship points (excluding items). they gain 2x as many instead.
+219|Mental Herb|N/A|50P|10|Cures the effects of infatuation from the target|0|-|An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
+220|Choice Band|N/A|50P|10|-|0|-|Adds 1d20 to attack rolls. Can only use the first move selected.
+221|King's Rock|N/A|50P|30|Causes the target to flinch|0|-|While holding, roll 19 or higher on 1d20 when attacking to make opposing pokemon flinch.
+222|SilverPowder|N/A|50P|10|-|0|-|Adds 1d10 to all attacks involving Bug-type moves.
+223|Amulet Coin|N/A|50P|30|-|0|-|Doubles prize money recieved from battle if the holder takes part in the battle.
+224|Cleanse Tag|N/A|100P|30|-|0|-|Lowers the encounter rate of wild pokemon if held by the first member of the party.
+225|Soul Dew|N/A|100P|30|-|0|-|increases SP. ATk & SP. DEF by 40 points when held by Latios or Latias.
+226|Deep Sea Tooth|N/A|100P|90|-|0|-|An item to be held by Clamperl. A fang that gleams a sharp silver, it raises SP. ATK by 40 points.
+227|Deep Sea Scale|N/A|100P|30|-|0|-|An item to be held by Clamperl. A scale that shines a faint pink, it raises SP. DEF by 40 points.
+228|Smoke Ball|N/A|100P|30|-|0|-|An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.
+229|Everstone|N/A|100P|30|-|0|-|An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
+230|Focus Band|N/A|100P|10|-|0|-|A hold item that occasionally prevents fainting. Roll 19 or higher on 1d20 when hit with a fatal attack to hold on with 1HP.
+231|Lucky Egg|N/A|100P|30|-|0|-|A hold item that causes the pokemon holding it to gain 2x the EXP from battle.
+232|Scope Lens|N/A|100P|30|-|0|-|A hold item that raises the critical-hit rate. Roll 17 or higher on the status die when attacking to score a critical hit.
+233|Metal Coat|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Steel-type moves.
+234|Leftovers|N/A|100P|10|-|0|-|At the beginning of each turn roll 1d20 and recover HP equal to the amount rolled.
+235|Dragon Scale|N/A|1050P|30|-|0|-|A thick and tough scale. Dragon-type Pokemon may be holding this item when caught.
+236|Light Ball|N/A|100P|30|Paralyzes the target|0|-|If held by Pikachu, doubles ATK and SP. ATK. If held by either parent when breeding pikachu. Pichu will learn volt tackle.
+237|Soft Sand|N/A|50P|10|-|0|-|Adds 1d10 to all attacks involving Ground-type moves.
+238|Hard Stone|N/A|50P|100|-|0|-|Adds 1d10 to all attacks involving Rock-type moves.
+239|Miracle Seed|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Grass-type moves.
+240|BlackGlasses|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Dark-type moves.
+241|Black Belt|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Fighting-type moves.
+242|Magnet|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Electric-type moves.
+243|Mystic Water|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Water-type moves.
+244|Sharp Beak|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Flying-type moves.
+245|Poison Barb|N/A|50P|70|Poisons the target|0|-|Adds 1d10 to all attacks involving Poison-type moves.
+246|NeverMeltIce|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Ice-type moves.
+247|Spell Tag|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Ghost-type moves.
+248|TwistedSpoon|N/A|50P|30|-|0|-|Adds 1d10 to all attacks involving Psychic-type moves.
+249|Charcoal|9800P|4900P|30|-|0|-|Adds 1d10 to all attacks involving Fire-type moves.
+250|Dragon Fang|N/A|50P|70|-|0|-|Adds 1d10 to all attacks involving Dragon-type moves.
+251|Silk Scarf|N/A|50P|10|-|0|-|Adds 1d10 to all attacks involving Normal-type moves.
+252|Up-Grade|N/A|1050P|30|-|0|-|A transparent device filled with all sorts of data. It is made by Silph Co.
+253|Shell Bell|N/A|100P|30|-|0|-|When attacking with a physical attack, roll 1d20 and recover HP by amount shown.
+254|Sea Incense|N/A|4800P|10|-|0|-|Adds 1d10 to all attacks involving Water-type moves.
+255|Lax Incense|N/A|4800P|10|-|0|-|Reduces the accuracy of moves targeting the holder by 10%
+256|Lucky Punch|N/A|5P|40|-|0|-|A glove to be held by a Chansey. It raises Chansey's critical-hit ratio. Roll 17 or higher on status die to score a critical hit.
+257|Metal Powder|N/A|5P|10|-|0|-|If held by Ditto, increases DEF and SP. DEF by 40 points. Does not work while ditto is transformed.
+258|Thick Club|N/A|250P|90|-|0|-|An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts ATK by 40 points.
+259|Stick|N/A|100P|60|-|0|-|A stick of leek to be held by a Farfetch'd. It raises Farfetch'd's critical-hit ratio. Roll 17 or higher on status die to score a critical hit.
+260|Red Scarf|N/A|50P|10|-|0|-|An item to be held by a Pokémon. It boosts the Cool aspect of the holder in a Contest.
+261|Blue Scarf|N/A|50P|10|-|0|-|An item to be held by a Pokémon. It boosts the Beautiful aspect of the holder in a Contest.
+262|Pink Scarf|N/A|50P|10|-|0|-|An item to be held by a Pokémon. It boosts the Cute aspect of the holder in a Contest.
+263|Green Scarf|N/A|50P|10|-|0|-|An item to be held by a Pokémon. It boosts the Smart aspect of the holder in a Contest.
+264|Yellow Scarf|N/A|50P|10|-|0|-|An item to be held by a Pokémon. It boosts the Tough aspect of the holder in a Contest.
+265|Wide Lens|N/A|100P|10|-|0|-|Boosts the holder's accuracy by 10%
+266|Muscle Band|N/A|100P|10|-|0|-|Add 1d10 to any attack roll involving physical attacks.
+267|Wise Glasses|N/A|100P|10|-|0|-|Add 1d10 to any attack roll involving special attacks.
+268|Expert Belt|N/A|100P|10|-|0|-|Add 1d20 to any super effective attack roll.
+269|Light Clay|N/A|100P|30|-|0|-|A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder by 3 turns.
+270|Life Orb|N/A|100P|30|-|0|-|Add 1d20 to all attack rolls. Holder takes 1d20 of damage with each attack.
+271|Power Herb|N/A|50P|10|-|0|-|A single-use item to be held by a Pokémon. It allows the holder to immediately use a move that normally requires a turn to charge.
+272|Toxic Orb|N/A|100P|30|Badly poisons the target|0|-|An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
+273|Flame Orb|N/A|100P|30|Burns the target|0|-|An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.
+274|Quick Powder|N/A|5P|10|-|0|-|An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts SPD by 40 points.
+275|Focus Sash|N/A|100P|10|-|0|-|An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
+276|Zoom Lens|N/A|100P|10|-|0|-|Boosts the accuracy of the holder's moves by 20% if the holder attacks after opposing pokemon.
+277|Metronome|1000P|100P|10|-|0|-|Each time a move is used consecutively, 20 points is added to the attack's power.
+278|Iron Ball|N/A|100P|130|-|0|-|Cuts holder's speed in half. If held by a flying type pokemon or a pokemon with levitate or under the effects of telekinesis, it now takes damage from Ground-type moves.
+279|Lagging Tail|N/A|100P|10|-|0|-|The holder always moves last.
+280|Destiny Knot|N/A|100P|10|-|0|-|If the holder becomes infatuated, the opposing pokemon does too.
+281|Black Sludge|N/A|100P|30|-|0|-|If held by a Poison-type pokemon, restores 1d20 of HP each turn. If held by a non-Poison-type pokemon, deals 1d20 of damage each turn.
+282|Icy Rock|N/A|100P|40|-|0|-|Extends the duration of the move hail by 3 turns (also any abilities which bestow hail).
+283|Smooth Rock|N/A|100P|10|-|0|-|Extends the duration of the move sandstorm by 3 turns (also any abilities which bestow sandstorm).
+284|Heat Rock|N/A|100P|60|-|0|-|Extends the duration of the move sunny day by 3 turns (also any abilities which bestow sunny day).
+285|Damp Rock|N/A|100P|60|-|0|-|Extends the duration of the move rain dance by 3 turns (also any abilities which bestow rain dance).
+286|Grip Claw|N/A|100P|90|-|0|-|Extends the duration of multiturn attacks like bind and wrap to always be 5 turns.
+287|Choice Scarf|N/A|100P|10|-|0|-|Boosts holder's SPD by 60 points. Can only use the first move selected in battle.
+288|Sticky Barb|N/A|100P|80|-|0|-|At the end of the turn, sticky barb deals 1d20 of damage to holder. If a pokemon holding sticky barb uses a physical move against a pokemon holding nothing, sticky barb is transferred.
+289|Power Bracer|N/A|1500P|70|-|0|-|Double points placed into ATK during level up. SPD is halved while equipped.
+290|Power Belt|N/A|1500P|70|-|0|-|Doubles points placed into DEF during level up. SPD is halved while equipped.
+291|Power Lens|N/A|1500P|70|-|0|-|Doubles points placed into SP. ATK during level up. SPD is halved while equipped.
+292|Power Band|N/A|1500P|70|-|0|-|Doubles points placed into SP. DEF during level up. SPD is halved while equipped.
+293|Power Anklet|N/A|1500P|70|-|0|-|Doubles points placed into SPD during level up. SPD is halved while equipped.
+294|Power Weight|N/A|1500P|70|-|0|-|Doubles points placed into HP during level up. SPD is halved while equipped.
+295|Shed Shell|N/A|100P|10|-|0|-|Allows the holder to switch out even if it is trapped by a move or ability.
+296|Big Root|N/A|50P|10|-|0|-|Add 40 points to the amount of HP recovered from HP stealing moves as well as ingrain and aqua ring.
+297|Choice Specs|N/A|100P|10|-|0|-|Add 60 points to SP. ATK, can only use the first move selected in battle.
+298|Flame Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Fire-type moves. Also transforms Arceus' type into Fire-type.
+299|Splash Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Water-type moves. Also transforms Arceus' type into Water-type.
+300|Zap Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Electric-type moves. Also transforms Arceus' type into Electric-type.
+301|Meadow Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Grass-type moves. Also transforms Arceus' type into Grass-type.
+302|Icicle Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Ice-type moves. Also transforms Arceus' type into Ice-type.
+303|Fist Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Fighting-type moves. Also transforms Arceus' type into Fighting-type.
+304|Toxic Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Poison-type moves. Also transforms Arceus' type into Poison-type.
+305|Earth Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Earth-type moves. Also transforms Arceus' type into Earth-type.
+306|Sky Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Flying-type moves. Also transforms Arceus' type into Flying-type.
+307|Mind Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Psychic-type moves. Also transforms Arceus' type into Psychic-type.
+308|Insect Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Bug-type moves. Also transforms Arceus' type into Bug-type.
+309|Stone Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Rock-type moves. Also transforms Arceus' type into Rock-type.
+310|Spooky Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Ghost-type moves. Also transforms Arceus' type into Ghost-type.
+311|Draco Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Dragon-type moves. Also transforms Arceus' type into Dragon-type.
+312|Dread Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Dark-type moves. Also transforms Arceus' type into Dark-type.
+313|Iron Plate|N/A|500P|90|-|0|-|A stone tablet that adds 1d10 to Iron-type moves. Also transforms Arceus' type into Iron-type.
+314|Odd Incense|N/A|4800P|10|-|0|-|Boosts the power of the holder's Psychic-type moves by 1d10. If held by either Pokémon in a situation that would produce a Mr. Mime Egg, a Mime Jr. Egg will be produced instead.
+315|Rock Incense|N/A|4800P|10|-|0|-|Boosts the power of the holder's Rock-type moves by 1d10. If held by either Pokémon in a situation that would produce a Sudowoodo Egg, a Bonsly Egg will be produced instead.
+316|Full Incense|N/A|4800P|10|-|0|-|Forces the holder to always move 2nd regardless of speed. Unaffected by trick room.
+317|Wave Incense|N/A|4800P|10|-|0|-|Boosts the power of the holder's Water-type moves by 1d10. If held by either Pokémon in a situation that would produce a Mantine Egg, a Mantyke Egg will be produced instead.
+318|Rose Incense|N/A|4800P|10|-|0|-|Boosts the power of the holder's Grass-type moves by 1d10. If held by either Pokémon in a situation that would produce a Roselia Egg, a Budew Egg will be produced instead.
+319|Luck Incense|N/A|4800P|10|-|0|-|Doubles the amount of prize money received after battle if the holder takes part in the battle. If held by either Pokémon in a situation that would produce a Chansey Egg, a Happiny Egg will be produced instead.
+320|Pure Incense|N/A|4800P|10|-|0|-|If held by the first member in the player's party, it lowers the encounter rate of wild Pokémon. If held by either Pokémon in a situation that would produce a Chimecho Egg, a Chingling Egg will be produced instead.
+321|Protector|N/A|1050P|80|-|0|-|Causes Rhydon to evolve into Rhyperior when traded while holding it.
+322|Electrizer|N/A|1050P|80|-|0|-|Causes Electabuzz to evolve into Electivire when traded while holding it.
+323|Magmarizer|N/A|1050P|80|-|0|-|Causes Magmar to evolve into Magmortar when traded while holding it.
+324|Dubious Disc|N/A|1050P|50|-|0|-|Causes Porygon2 to evolve into Porygon-Z when traded while holding it.
+325|Reaper Cloth|N/A|1050P|10|-|0|-|Causes Dusclops to evolve into Dusknoir when traded while holding it.
+326|Razor Claw|N/A|1050P|80|-|0|-|Raises the critical hit ratio of the holder. Roll 17 or higher on status die to score a critical hit. Causes Sneasel to evolve into Weavile when leveled up at night while holding it.
+327|Razor Fang|N/A|1050P|30|Causes the target to flinch|0|-|Grants moves a chance of causing the target Pokémon to flinch. Roll 19 or higher on 1d20 when attacking to make opposing pokemon flinch.
+328|TM 01|N/A|1500P|0|-|0|-|Teaches Focus Punch
+329|TM 02|N/A|1500P|0|-|0|-|Teaches Dragon Claw
+330|TM 03|N/A|1500P|0|-|0|-|Teaches Water Pulse
+331|TM 04|N/A|750P|0|-|0|-|Teaches Calm Mind
+332|TM 05|N/A|500P|0|-|0|-|Teaches Roar
+333|TM 06|N/A|1500P|0|-|0|-|Teaches Toxic
+334|TM 07|10 Green Shards|1500P|0|-|0|-|Teaches Hail
+335|TM 08|N/A|750P|0|-|0|-|Teaches Bulk Up
+336|TM 09|N/A|1000P|0|-|0|-|Teaches Bullet Seed
+337|TM 10|6000 coins|1000P|0|-|0|-|Teaches Hidden Power
+338|TM 11|10 Red Shards|1000P|0|-|0|-|Teaches Sunny Day
+339|TM 12|1500P|750P|0|-|0|-|Teaches Taunt
+340|TM 13|10000 coins|1500P|0|-|0|-|Teaches Ice Beam
+341|TM 14|5500P|2750P|0|-|0|-|Teaches Blizzard
+342|TM 15|7500P|3750P|0|-|0|-|Teaches Hyper Beam
+343|TM 16|2000P|1000P|0|-|0|-|Teaches Light Screen
+344|TM 17|2000P|1000P|0|-|0|-|Teaches Protect
+345|TM 18|10 Blue Shards|1000P|0|-|0|-|Teaches Rain Dance
+346|TM 19|N/A|1500P|0|-|0|-|Teaches Giga Drain
+347|TM 20|2000P|1000P|0|-|0|-|Teaches Safeguard
+348|TM 21|8000 coins|500P|0|-|0|-|Teaches Frustration
+349|TM 22|3000P|1500P|0|-|0|-|Teaches Solarbeam
+350|TM 23|N/A|1500P|0|-|0|-|Teaches Iron Tail
+351|TM 24|10000 coins|1500P|0|-|0|-|Teaches Thunderbolt
+352|TM 25|5500P|2750P|0|-|0|-|Teaches Thunder
+353|TM 26|N/A|1500P|0|-|0|-|Teaches Earthquake
+354|TM 27|8000 coins|N/A|0|-|0|-|Teaches Return
+355|TM 28|N/A|1000P|0|-|0|-|Teaches Dig
+356|TM 29|10000 coins|1500P|0|-|0|-|Teaches Psychic
+357|TM 30|N/A|1500P|0|-|0|-|Teaches Shadow Ball
+358|TM 31|N/A|1500P|0|-|0|-|Teaches Brick Break
+359|TM 32|4000 coins|500P|0|-|0|-|Teaches Double Team
+360|TM 33|2000P|1000P|0|-|0|-|Teaches Reflect
+361|TM 34|N/A|1500P|0|-|0|-|Teaches Shock Wave
+362|TM 35|10000 coins|1500P|0|-|0|-|Teaches Flamethrower
+363|TM 36|N/A|1500P|0|-|0|-|Teaches Sludge Bomb
+364|TM 37|10 Yellow Shards|1000P|0|-|0|-|Teaches Sandstorm
+365|TM 38|5500P|2750P|0|-|0|-|Teaches Fire Blast
+366|TM 39|N/A|1000P|0|-|0|-|Teaches Rock Tomb
+367|TM 40|N/A|1500P|0|-|0|-|Teaches Aerial Ace
+368|TM 41|N/A|750P|0|-|0|-|Teaches Torment
+369|TM 42|N/A|1500P|0|-|0|-|Teaches Facade
+370|TM 43|N/A|1000P|0|-|0|-|Teaches Secret Power
+371|TM 44|6000 coins|1500P|0|-|0|-|Teaches Rest
+372|TM 45|N/A|1500P|0|-|0|-|Teaches Attract
+373|TM 46|N/A|1000P|0|-|0|-|Teaches Thief
+374|TM 47|N/A|1500P|0|-|0|-|Teaches Steel Wing
+375|TM 48|N/A|1500P|0|-|0|-|Teaches Skill Swap
+376|TM 49|N/A|750P|0|-|0|-|Teaches Snatch
+377|TM 50|N/A|2750P|0|-|0|-|Teaches Overheat
+378|TM 51|N/A|1000P|0|-|0|-|Teaches Roost
+379|TM 52|5500P|2750P|0|-|0|-|Teaches Focus Blast
+380|TM 53|N/A|1500P|0|-|0|-|Teaches Energy Ball
+381|TM 54|2000P|1000P|0|-|0|-|Teaches False Swipe
+382|TM 55|N/A|1500P|0|-|0|-|Teaches Brine
+383|TM 56|N/A|1000P|0|-|0|-|Teaches Fling
+384|TM 57|N/A|1500P|0|-|0|-|Teaches Charge Beam
+385|TM 58|2000 coins|1000P|0|-|0|-|Teaches Endure
+386|TM 59|N/A|1500P|0|-|0|-|Teaches Dragon Pulse
+387|TM 60|N/A|1500P|0|-|0|-|Teaches Drain Punch
+388|TM 61|N/A|1000P|0|-|0|-|Teaches Will-O-Wisp
+389|TM 62|N/A|1500P|0|-|0|-|Teaches Silver Wind
+390|TM 63|N/A|1000P|0|-|0|-|Teaches Embargo
+391|TM 64|N/A|3750P|0|-|0|-|Teaches Explosion
+392|TM 65|N/A|1500P|0|-|0|-|Teaches Shadow Claw
+393|TM 66|N/A|1500P|0|-|0|-|Teaches Payback
+394|TM 67|N/A|500P|0|-|0|-|Teaches Recycle
+395|TM 68|20000 coins|3750P|0|-|0|-|Teaches Giga Impact
+396|TM 69|N/A|750P|0|-|0|-|Teaches Rock Polish
+397|TM 70|1000P|500P|0|-|0|-|Teaches Flash
+398|TM 71|N/A|1500P|0|-|0|-|Teaches Stone Edge
+399|TM 72|N/A|1500P|0|-|0|-|Teaches Avalanche
+400|TM 73|N/A|1000P|0|-|0|-|Teaches Thunder Wave
+401|TM 74|15000 coins|1500P|0|-|0|-|Teaches Gyro Ball
+402|TM 75|4000 coins|750P|0|-|0|-|Teaches Swords Dance
+403|TM 76|N/A|1000P|0|-|0|-|Teaches Stealth Rock
+404|TM 77|N/A|750P|0|-|0|-|Teaches Psych Up
+405|TM 78|N/A|750P|0|-|0|-|Teaches Captivate
+406|TM 79|N/A|1500P|0|-|0|-|Teaches Dark Pulse
+407|TM 80|N/A|1500P|0|-|0|-|Teaches Rock Slide
+408|TM 81|N/A|1500P|0|-|0|-|Teaches X-Scissor
+409|TM 82|N/A|500P|0|-|0|-|Teaches Sleep Talk
+410|TM 83|2000P|1000P|0|-|0|-|Teaches Natural Gift
+411|TM 84|N/A|1500P|0|-|0|-|Teaches Poison Jab
+412|TM 85|N/A|1500P|0|-|0|-|Teaches Dream Eater
+413|TM 86|N/A|1500P|0|-|0|-|Teaches Grass Knot
+414|TM 87|N/A|750P|0|-|0|-|Teaches Swagger
+415|TM 88|N/A|1500P|0|-|0|-|Teaches Pluck
+416|TM 89|6000 coins|1500P|0|-|0|-|Teaches U-Turn
+417|TM 90|2000 coins|1000P|0|-|0|-|Teaches Substitute
+418|TM 91|N/A|1500P|0|-|0|-|Teaches Flash Cannon
+419|TM 92|N/A|2750P|0|-|0|-|Teaches Trick Room
+420|HM 01|N/A|0P|0|-|0|-|Teaches Cut
+421|HM 02|N/A|0P|0|-|0|-|Teaches Fly
+422|HM 03|N/A|0P|0|-|0|-|Teaches Surf
+423|HM 04|N/A|0P|0|-|0|-|Teaches Strength
+424|HM 05|N/A|0P|0|-|0|-|Teaches Defog
+425|HM 06|N/A|0P|0|-|0|-|Teaches Rock Smash
+426|HM 07|N/A|0P|0|-|0|-|Teaches Waterfall
+427|HM 08|N/A|0P|0|-|0|-|Teaches Rock Climb
+428|Explorer Kit|N/A|0P|0|-|0|-|A bag that includes all the basic tools used when adventuring, mining, collecting, and cataloging items.
+429|Loot Sack|N/A|0P|0|-|0|-|A sturdy, spacious bag that is used to carry loot obtained with the explorer kit.
+430|Rule Book|N/A|0P|0|-|0|-|It lists the rules for holding battles.
+431|Poké Radar|N/A|0P|0|-|0|-|Used to seek out wild Pokémon hiding in tall grass.
+432|Point Card|N/A|0P|0|-|0|-|Stores the Battle Points earned in the Battle Tower.
+433|Journal|N/A|0P|0|-|0|-|A notebook that keeps a day-to-day record of your adventure so far.
+434|Seal Case|N/A|0P|0|-|0|-| A case for storing Seals that can be applied to the capsule cases of Poké Balls.
+435|Fashion Case|N/A|0P|0|-|0|-|A fancy case for the tidy and organized storage of colorful Pokémon Accessories used in pokemon contests.
+436|Seal Bag|N/A|0P|0|-|0|-|Holds up to 10 seals.
+437|Pal Pad|N/A|0P|0|-|0|-|A convenient notepad that is used for registering your friends.
+438|Works Key|N/A|0P|0|-|0|-|A large key for operating the doors of the Valley Windworks in the Sinnoh region.
+439|Old Charm|N/A|0P|0|-|0|-|An ancient good-luck charm made of Pokémon bones to be taken to the elder of Celestic Town.
+440|Galactic Key|N/A|0P|0|-|0|-|A card key for disengaging security systems in the Galactic HQ. Losing it can result in punishment, apparently.
+441|Red Chain|N/A|0P|0|-|0|-|A mythical chain that is said to link the legendary Pokémon that created the Sinnoh region.
+442|Town Map|N/A|0P|0|-|0|-|A very convenient map that can be viewed anytime. It even shows your present location.
+443|Vs. Seeker|N/A|0P|0|-|0|-|A device that indicates Trainers who want to battle.
+444|Coin Case|N/A|0P|0|-|0|-|A case for holding Coins obtained at the Game Corner. It holds up to 50,000 Coins.
+445|Old Rod|N/A|0P|0|-|0|-|An old and beat-up fishing rod. Use it by any body of water to fish for wild Pokémon.
+446|Good Rod|N/A|0P|0|-|0|-|Allows the player to fish in bodies of water. Better than the Old Rod.
+447|Super Rod|N/A|0P|0|-|0|-|An awesome, high-tech fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+448|Sprayduck|N/A|0P|0|-|0|-|A watering can shaped like a Psyduck. It helps promote healthy growth of Berries planted in soft soil.
+449|Poffin Case|N/A|0P|0|-|0|-|A case for storing Poffin cooked from Berries.
+450|Bicycle|N/A|0P|0|-|0|-|A folding Bicycle that enables much faster movement than the Running Shoes.
+451|Suite Key|N/A|0P|0|-|0|-|A key to one of the suites at the luxury hotel by a lake.
+452|Oak's Letter|N/A|0P|0|-|0|-|A letter from Prof. Oak. Written in it is a request for you to go to Rt. 224. Allows access to battle Shaymin
+453|Lunar Wing|N/A|0P|0|-|0|-|A feather that glows like the moon. It is said to possess the power to dispel nightmares.
+454|Member Card|N/A|0P|0|-|0|-| 	A 50-year old key for accessing the motel in Canalave City. Allows access to battle Darkrai.
+455|Azure Flute|N/A|0P|0|-|0|-|A flute that puts out echoing sounds that do not seem to be of this world. It is unknown who made it. Opens the stairway to battle Arceus
+456|S.S. Ticket|N/A|0P|0|-|0|-|The ticket required for sailing on the ferry S.S. Anne. It has a drawing of a ship on it.
+457|Contest Pass|N/A|0P|0|-|0|-|The ticket required for sailing on the ferry S.S. Anne. It has a drawing of a ship on it.
+458|Magma Stone|N/A|0P|0|-|0|-|A stone formed when boulders melted in intensely hot magma, then hardened. Magma remains sealed inside. Used to summon Heatran.
+459|Parcel|N/A|0P|0|-|0|-|A package to be delivered.
+460|Coupon 1|N/A|0P|0|-|0|-|A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed.
+461|Coupon 2|N/A|0P|0|-|0|-|A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed.
+462|Coupon 3|N/A|0P|0|-|0|-|A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed.
+463|Storage Key IV|N/A|0P|0|-|0|-|The key to Team Galactic's sinister warehouse located at the edge of Veilstone City in the Sinnoh region.
+464|SecretPotion|N/A|0P|0|-|0|-|Medicine dispensed by the pharmacy in Cianwood City. It can fully heal a pokemon of any ailment.
+465|Vs. Recorder|N/A|0P|0|-|0|-|Allows the player to record and replay battles.
+466|Gracidea|N/A|0P|0|-|0|-|A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays. Transforms Shaymin.
+467|Secret Key|N/A|0P|0|-|0|-|A high-tech key that has to be used at a specific location. It emits a special electric signal to open a door. Allows access to where Rotom is.
+468|Apricorn Box|N/A|0P|0|-|0|-|A handy box where you can store up to 99 Apricorns of each kind.
+469|Unown Report|N/A|0P|0|-|0|-|A report of all the discovered kinds of Unown.
+470|Berry Pots|N/A|0P|0|-|0|-|Handy containers for cultivating Berries wherever you go.
+471|Dowsing MCHN IV|N/A|0P|0|-|0|-|It checks for unseen items in the area and makes noise and lights when it finds something.
+472|Blue Card|N/A|0P|0|-|0|-|A card to save points for the Buena's Password show.
+473|SlowpokeTail|9800P|4900P|0|-|0|-|A very tasty tail of something. It can be sold at a high price to shops.
+474|Clear Bell|N/A|0P|0|-|0|-|A very old-fashioned bell that makes a gentle ringing. Linked to the Bell tower in Ecruteak city in the Johto region.
+475|Card Key|N/A|0P|0|-|0|-|A card key that opens a shutter in the Radio Tower.
+476|Basement Key|N/A|0P|0|-|0|-|A key that opens a door in the Goldenrod Tunnel.
+477|SquirtBottle|N/A|0P|0|-|0|-|A bottle used for watering plants in the Berry Pots.
+478|Red Scale|N/A|0P|0|-|0|-|A scale from the red Gyarados. It glows red like a flame.
+479|Lost Item IV|N/A|0P|0|-|0|-|The Poké Doll lost by the Copycat.
+480|Pass|N/A|0P|0|-|0|-|A ticket required for riding the Magnet Train. It allows you to ride whenever and however much you'd like.
+481|Machine Part|N/A|0P|0|-|0|-|An important machine part for the Power Plant that was stolen.
+482|Silver Wing|N/A|0P|0|-|0|-|A strange, silvery feather that sparkles.
+483|Rainbow Wing|N/A|0P|0|-|0|-|A mystical, rainbow feather that sparkles.
+484|Mystery Egg|N/A|0P|0|-|0|-|A mysterious Egg obtained from Mr. Pokémon. What's in the Egg is unknown.
+485|Red Apricorn|N/A|100P|0|-|0|-|Can be made into a Level Ball.
+486|Ylw Apricorn|N/A|100P|0|-|0|-|Can be made into a Moon Ball.
+487|Blu Apricorn|N/A|100P|0|-|0|-|Can be made into a Lure Ball.
+488|Grn Apricorn|N/A|100P|0|-|0|-|Can be made into a Friend Ball.
+489|Pnk Apricorn|N/A|100P|0|-|0|-|Can be made into a Love Ball.
+490|Wht Apricorn|N/A|100P|0|-|0|-|Can be made into a Fast Ball.
+491|Blk Apricorn|N/A|100P|0|-|0|-|Can be made into a Heavy Ball.
+492|Fast Ball|N/A|150P|0|-|0|-|Base catch rate: 0. If pokemon's SPD is at least 100 or if used on a pokemon fleeing from battle, catch rate is: 7
+493|Level Ball|N/A|150P|0|-|0|-|Base catch rate: 0. If level of pokemon is less than that of trainer's pokemon, catch rate is: 5
+494|Lure Ball IV|N/A|150P|0|-|0|-|Base catch rate: 0. If used while fishing, catch rate is: 6.
+495|Heavy Ball|N/A|150P|0|-|0|-|Base catch rate: 0. Catch rate goes up by 1 for every 50 lbs the pokemon is over 225 lbs.
+496|Love Ball|N/A|150P|0|-|0|-|Base catch rate: 0. If used on a pokemon of the same species as trainer's pokemon, catch rate is: 8
+497|Friend Ball|N/A|150P|0|-|0|-|Base catch rate: 0. Raises the friendship of any pokemon caught with it to 20.
+498|Moon Ball|N/A|150P|0|-|0|-|Base catch rate: 0. If used against a pokemon which evolves with a moon stone, catch rate is: 7
+499|Sport Ball|N/A|0P|0|-|0|-|Base catch rate: 3, A ball used in Johto's national park for bug-catching contests.
+500|Park Ball|N/A|0P|0|-|0|-|A pokeball that is always successful. A special pokeball used in Sinnoh's pal park.
+501|Photo Album|N/A|0P|0|-|0|-|A nice photo album for storing all the photos taken along your adventure.
+502|GB Sounds|N/A|0P|0|-|0|-|A music player that allows you to listen to nostalgic songs. It's operated with a single switch.
+503|Tidal Bell|N/A|0P|0|-|0|-|An old-fashioned bell with a gentle, soothing sound. Summons ??? to the bell tower.
+504|Rage Candy Bar|N/A|0P|0|-|0|-|A famous candy in Mahogany Town in the Johto region. Many tourists like to buy them to take home. Restores 20HP to a single pokemon.
+505|Data Card|N/A|0P|0|-|0|-|This is null.
+506|Data Card|N/A|0P|0|-|0|-|This is null.
+507|Data Card|N/A|0P|0|-|0|-|This is null.
+508|Data Card|N/A|0P|0|-|0|-|This is null.
+509|Data Card|N/A|0P|0|-|0|-|This is null.
+510|Data Card|N/A|0P|0|-|0|-|This is null.
+511|Data Card|N/A|0P|0|-|0|-|This is null.
+512|Data Card|N/A|0P|0|-|0|-|This is null.
+513|Data Card|N/A|0P|0|-|0|-|This is null.
+514|Data Card|N/A|0P|0|-|0|-|This is null.
+515|Data Card|N/A|0P|0|-|0|-|This is null.
+516|Data Card|N/A|0P|0|-|0|-|This is null.
+517|Data Card|N/A|0P|0|-|0|-|This is null.
+518|Data Card|N/A|0P|0|-|0|-|This is null.
+519|Data Card|N/A|0P|0|-|0|-|This is null.
+520|Data Card|N/A|0P|0|-|0|-|This is null.
+521|Data Card|N/A|0P|0|-|0|-|This is null.
+522|Data Card|N/A|0P|0|-|0|-|This is null.
+523|Data Card|N/A|0P|0|-|0|-|This is null.
+524|Data Card|N/A|0P|0|-|0|-|This is null.
+525|Data Card|N/A|0P|0|-|0|-|This is null.
+526|Data Card|N/A|0P|0|-|0|-|This is null.
+527|Data Card|N/A|0P|0|-|0|-|This is null.
+528|Data Card|N/A|0P|0|-|0|-|This is null.
+529|Data Card|N/A|0P|0|-|0|-|This is null.
+530|Data Card|N/A|0P|0|-|0|-|This is null.
+531|Data Card|N/A|0P|0|-|0|-|This is null.
+532|Jade Orb|N/A|0P|0|-|0|-|A shiny green orb that is said to have a legend and has a deep connection with the Hoenn region.
+533|Lock Capsule IV|N/A|0P|0|-|0|-|A sturdy Capsule that can only be opened with a special key.
+534|Red Orb|N/A|0P|0|-|0|-|A shiny red orb that is said to have a legend and has a deep connection with the Hoenn region.
+535|Blue Orb|N/A|0P|0|-|0|-|A shiny blue orb that is said to have a legend and has a deep connection with the Hoenn region.
+536|Enigma Stone|N/A|0P|0|-|0|-|A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth.

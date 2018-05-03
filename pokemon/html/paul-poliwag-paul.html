@@ -1,0 +1,360 @@
+<html>
+    <head>
+        <style>
+            .title {
+                border-bottom: 1px solid black;
+                width: 100%;
+            }
+            .stats {
+                height: 10%;
+                border: 1px solid black;
+                border-radius: 10px;
+                background: #EEEEEE;
+                box-shadow: 2px 2px 5px 0px #666666;
+                margin-top: 10px;
+                margin-bottom:10px;
+            }
+            .cash {
+                height: 5%;
+                border: 1px solid black;
+                border-radius: 10px;
+                background: #EEEEEE;
+                box-shadow: 2px 2px 5px 0px #666666;
+                margin-top: 10px;
+                margin-bottom:10px;
+            }
+            .stat-sub1 {
+                height: 50%;
+                margin-left:5px;
+                margin-right:5px;
+                border-bottom: 1px solid black;
+            }
+            .stat-sub2 {
+                margin-left:5px;
+                margin-right:5px;
+                height: 50%;
+            }
+            .sub-txt {
+                vertical-align:middle;
+                padding-top: .5%;
+                padding-left: .5%;
+                margin: 0px;
+            }
+            .section-head {
+                background: #BBCCFF;
+                border-top: 1px solid black;
+                border-left: 1px solid black;
+                border-right: 1px solid black;
+                box-shadow: 2px 2px 5px 0px #666666;
+                margin-bottom:0px;
+                margin-top: 10px;
+            }
+            .section-body {
+                border: 1px solid black;
+                margin-bottom: 10px;
+                background: #EEFFFF;
+                box-shadow: 2px 2px 5px 0px #666666;
+            }
+            .moveset-top {
+                background: #DDCCFF;
+                border: 1px solid black;
+                box-shadow: 2px 2px 5px 0px #666666;
+                margin-bottom:0px;
+                margin-top: 10px;
+            }
+            .moveset-middle {
+                background: #DDCCFF;
+                border-bottom: 1px solid black;
+                border-left: 1px solid black;
+                border-right: 1px solid black;
+                box-shadow: 2px 2px 5px 0px #666666;
+                margin-bottom:0px;
+                margin-top: 0px;
+            }
+            .moveset-body {
+                border: 1px solid black;
+                margin-bottom: 0px;
+                background: #EEFFFF;
+                box-shadow: 2px 2px 5px 0px #666666;
+            }
+            .sub-header {
+                border: 1px solid black;
+                border-radius: 10px;
+                background: #EEEEEE;
+                margin:10px;
+                padding-left:1%;
+            }
+            .sub-section {
+                margin:10px;
+                padding-left:.5%;
+            }
+            .nopad {
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-left: .5%;
+                padding-bottom: 0px;
+            }
+        </style>
+        <script type="text/javascript">
+            function hide(x) {
+                var y = document.getElementById(x);
+                if (y.style.display === "none") {
+                    y.style.display = "block";
+                } else {
+                    y.style.display = "none";
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div class="title">
+            <table style="width:100%;">
+                <tr>
+                    <td style="text-align:left;"><h1>Poliwag (M)</h1></td>
+                    <td style="text-align:center;"><h3>[Water]</h3></td>
+                    <td style="text-align:right;"><h1>#60</h1></td>
+                </tr>
+            </table>
+        </div>
+        <div class="cash">
+            <div class="sub-txt">
+                &nbsp;&nbsp;
+                <strong>Nickname:</strong> N/A&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Owner:</strong> Paul&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Ht:</strong> 2' 0"&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Wt:</strong> 27.3lbs &nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+        </div>
+        <div class="cash">
+            <div class="sub-txt">
+                &nbsp;&nbsp;
+                <strong>Level:</strong> 5&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Exp:</strong> 1785&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Status:</strong> NORM&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Natural Armor:</strong> 1d8&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Evolve:</strong> Lvl 25&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+        </div>
+        <div class="cash">
+            <div class="sub-txt">
+                &nbsp;&nbsp;
+                <strong>Hidden Power:</strong> Flying&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Likes:</strong> Bitter Foods &nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Hates:</strong> Dry Foods &nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+        </div>
+        <div class="stats">
+            <div class="stat-sub1">
+                <div class="sub-txt">
+                    <strong>HP:</strong> 32/32&nbsp;&nbsp;&nbsp;&nbsp;
+                    <strong>ATK:</strong> 23&nbsp;&nbsp;&nbsp;&nbsp;
+                    <strong>DEF:</strong> 8&nbsp;&nbsp;&nbsp;&nbsp;
+                    <strong>SP. ATK:</strong> 12&nbsp;&nbsp;&nbsp;&nbsp;
+                    <strong>SP. DEF:</strong> 12&nbsp;&nbsp;&nbsp;&nbsp;
+                    <strong>SPD:</strong> 27&nbsp;&nbsp;&nbsp;&nbsp;
+                </div>
+            </div>
+            <div class="stat-sub2">
+                <div class="sub-txt">
+                    <strong>Energy:</strong> 100/100&nbsp;&nbsp&nbsp;&nbsp
+                    <strong>Friendship:</strong> 5/20&nbsp;&nbsp&nbsp;&nbsp
+                    <strong>Status:</strong> NORM&nbsp;&nbsp&nbsp;&nbsp
+                </div>
+            </div>
+        </div>
+        <div class="section-head">
+            <div class="sub-txt">
+                <h3 class="nopad">Skills</h3>
+            </div>
+        </div>
+        <div class="section-body">
+            <div class="sub-txt">
+                <table style="width:100%;">
+                    <tr>
+                        <td><strong>Hiking:</strong> 7&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Jumping:</strong> 10&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Swimming:</strong> 20&nbsp;&nbsp&nbsp;&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Fishing:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Hunting:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Farming:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Foraging:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Sneaking:</strong> 15&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Instinct:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Performing:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Forecasting:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Perception:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Sensing:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Fortitude:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Intimidation:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Persuasion:</strong> 3&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Surf:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Headbutt:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Whirlpool:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Waterfall:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                        <td><strong>Dig:</strong> 5&nbsp;&nbsp&nbsp;&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="title">
+            <h2 class="nopad" style="padding-top:10px;">Ability</h2>
+        </div>
+        <div class="section-head" style="background: #FFCCDD;" onclick="hide('abil');">
+            <h3 class="nopad">Water Absorb</h3>
+        </div>
+        <div class="section-body" style="display: none;" id="abil">
+            <div class="sub-section">
+                Restores HP if hit by a Water-type move. Reduce any damage to 0 and roll 1d20, then restore the amount of HP rolled.
+            </div>
+        </div>
+        <div class="title">
+            <h2 class="nopad" style="padding-top:20px;">Nature</h2>
+        </div>
+    <div class="section-head" style="background: #CCFFDD;" onclick="hide('nat');">
+        <h3 class="nopad">Lonely</h3>
+    </div>
+    <div class="section-body" style="display: none;" id="nat">
+        <div class="sub-header">
+            <h4 class="nopad">Stat Mods</h4>
+        </div>
+        <div class="sub-section">
+            <table style="width: 100%;">
+                <tr>
+                <td><strong>ATK:</strong> 5&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td><strong>DEF:</strong> -5&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td><strong>Friendship:</strong> 2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+    <div class="sub-header">
+        <h4 class="nopad">Skill Mods</h4>
+    </div>
+    <div class="sub-section">
+        <table style="width: 100%;">
+            <tr>
+                <td><strong>Persuasion:</strong> -2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+    <div class="sub-section" style="border-top: 1px solid black;">
+        This pokemon is an outcast, they don’t have many friends and for this reason they may be more eager to make friends and easier to persuade to join your party.
+    </div>
+</div>
+        <div class="title">
+            <h2 class="nopad" style="padding-top:20px;">Item</h2>
+        </div>
+        <div class="section-head" style="background: #FFFFCC;" onclick="hide('item');">
+            <h3 class="nopad">None</h3>
+        </div>
+        <div class="title">
+            <h2 class="nopad" style="padding-top:20px;">Moveset</h2>
+        </div>
+        <div class="moveset-top" onclick="hide('move0');">
+            <table style="width:100%;">
+                <tr>
+                    <td style="text-align:left;">
+                        <h3 class="nopad">Water Sport</h3>
+                    </td>
+                    <td style="text-align:right;">
+                        <h3 class="nopad">15 PP</h3>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="moveset-body" style="display:none;" id="move0">
+            <div class="sub-header">
+                <h4 class="nopad">Battle Info</h4>
+            </div>
+            <div class="sub-section" style="border-bottom: 1px solid black;">
+                <strong>Max PP:</strong>24&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>PP Rate:</strong> 3&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Power:</strong> -&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Accuracy:</strong> -&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div class="sub-section" style="border-bottom: 1px solid black;">
+                <strong>Type:</strong> Water&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Category:</strong> Status&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div class="sub-section">
+                Subtract 2d20 from all rolls involving fire attacks against the user for the remainder of the battle or until user switches out (Whichever comes first).
+            </div>
+            <div class = "sub-header">
+                <h4 class="nopad">Contest Info</h4>
+            </div>
+            <div class="sub-section" style="border-bottom: 1px solid black;">
+                <strong>Category:</strong> Cute&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Appeal Points:</strong> 4&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Jam Points:</strong> 0&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div class="sub-section">
+                A highly appealing move. +4 points if mud sport or rain dance were used in the previous round.
+            </div>
+        </div>
+        <div class="moveset-middle" onclick="hide('move1');">
+            <table style="width:100%;">
+                <tr>
+                    <td style="text-align:left;">
+                        <h3 class="nopad">Bubble</h3>
+                    </td>
+                    <td style="text-align:right;">
+                        <h3 class="nopad">30 PP</h3>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="moveset-body" style="display:none;" id="move1">
+            <div class="sub-header">
+                <h4 class="nopad">Battle Info</h4>
+            </div>
+            <div class="sub-section" style="border-bottom: 1px solid black;">
+                <strong>Max PP:</strong>48&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>PP Rate:</strong> 6&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Power:</strong> 20&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Accuracy:</strong> 100%&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div class="sub-section" style="border-bottom: 1px solid black;">
+                <strong>Type:</strong> Water&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Category:</strong> Special&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div class="sub-section">
+                Roll 14 or higher on the status die to reduce opposing pokemon's SPD by 20 points for the remainder of the battle or until that pokemon switches out (whichever comes first)
+            </div>
+            <div class = "sub-header">
+                <h4 class="nopad">Contest Info</h4>
+            </div>
+            <div class="sub-section" style="border-bottom: 1px solid black;">
+                <strong>Category:</strong> Cute&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Appeal Points:</strong> 2&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Jam Points:</strong> 2&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div class="sub-section">
+                -2 points to all pokemon who have already appealed this turn. +2 points if rain dance was used in the previous turn.
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,257 @@
+        <html>
+            <head>
+                <style>
+                    .title {
+                        border-bottom: 1px solid black;
+                    }
+                    .stats {
+                        height: 10%;
+                        border: 1px solid black;
+                        border-radius: 10px;
+                        background: #EEEEEE;
+                        box-shadow: 2px 2px 5px 0px #666666;
+                        margin-top: 10px;
+                        margin-bottom:10px;
+                    }
+                    .cash {
+                        height: 5%;
+                        border: 1px solid black;
+                        border-radius: 10px;
+                        background: #EEEEEE;
+                        box-shadow: 2px 2px 5px 0px #666666;
+                        margin-top: 10px;
+                        margin-bottom:10px;
+                    }
+                    .stat-sub1 {
+                        height: 50%;
+                        margin-left:5px;
+                        margin-right:5px;
+                        border-bottom: 1px solid black;
+                    }
+                    .stat-sub2 {
+                        margin-left:5px;
+                        margin-right:5px;
+                        height: 50%;
+                    }
+                    .sub-txt {
+                        vertical-align:middle;
+                        padding-top: .5%;
+                        padding-left: .5%;
+                        margin: 0px;
+                    }
+                    .section-head {
+                        background: #BBCCFF;
+                        border-top: 1px solid black;
+                        border-left: 1px solid black;
+                        border-right: 1px solid black;
+                        box-shadow: 2px 2px 5px 0px #666666;
+                        margin-bottom:0px;
+                        margin-top: 10px;
+                    }
+                    .section-body {
+                        border: 1px solid black;
+                        margin-bottom: 10px;
+                        background: #EEFFFF;
+                        box-shadow: 2px 2px 5px 0px #666666;
+                    }
+                    .sub-header {
+                        border: 1px solid black;
+                        border-radius: 10px;
+                        background: #EEEEEE;
+                        margin:10px;
+                        padding-left:1%;
+                    }
+                    .sub-section {
+                        margin:10px;
+                        padding-left:.5%;
+                    }
+                    .nopad {
+                        margin-top: 0px;
+                        margin-bottom: 0px;
+                        padding-top: 0px;
+                        padding-bottom: 0px;
+                    }
+                </style>
+                <script type="text/javascript">
+                    function hide(x) {
+                        var y = document.getElementById(x);
+                        if (y.style.display === "none") {
+                            y.style.display = "block";
+                        } else {
+                            y.style.display = "none";
+                        }
+                    }
+                </script>
+            </head>
+            <body>
+                <div class="title"><h1>Paul</h1></div>
+                    <div class="cash">
+                        <div class="sub-txt">
+                            <strong>Owner:</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                            <strong>Ht:</strong> 5' 7"&nbsp;&nbsp;&nbsp;&nbsp;
+                            <strong>Wt:</strong> 125.0lbs&nbsp;&nbsp;&nbsp;&nbsp;
+                        </div>
+                    </div>
+                    <div class="stats">
+                        <div class="stat-sub1">
+                            <div class="sub-txt">
+                                <strong>HP:</strong> 204/204&nbsp;&nbsp;&nbsp;&nbsp;
+                                <strong>ATK:</strong>68&nbsp;&nbsp;&nbsp;&nbsp;
+                                <strong>DEF:</strong>68&nbsp;&nbsp;&nbsp;&nbsp;
+                                <strong>SP. ATK:</strong>34&nbsp;&nbsp;&nbsp;&nbsp;
+                                <strong>SP. DEF:</strong>34&nbsp;&nbsp;&nbsp;&nbsp;
+                                <strong>SPD:</strong>34&nbsp;&nbsp;&nbsp;&nbsp;
+                            </div>
+                        </div>
+                        <div class="stat-sub2">
+                            <div class="sub-txt">
+                                <strong>Energy:</strong> 100/100&nbsp;&nbsp;&nbsp;&nbsp;
+                                <strong>Charisma:</strong> 10/20&nbsp;&nbsp;&nbsp;&nbsp;
+                                <strong>Status:</strong> NORM
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cash">
+                        <div class="sub-txt">
+                            <strong>Cash:</strong> 1000P&nbsp;&nbsp;&nbsp;&nbsp;
+                            <strong>Coins:</strong> 0&nbsp;&nbsp;&nbsp;&nbsp;
+                        </div>
+                    </div>
+                    <div class="section-head">
+                        <div class="sub-txt">
+                            <h3 class="nopad">Skills</h3>
+                        </div>
+                    </div>
+                    <div class="section-body">
+                        <div class="sub-txt">
+                            <table style="width: 100%;">
+                                <tr>
+                                    <td><strong>hiking:</strong> 10&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td><strong>climbing:</strong> 10&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td><strong>fishing:</strong> 15&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>hunting:</strong> 2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td><strong>camping:</strong> 10&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td><strong>foraging:</strong> 2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>cooking:</strong> 15&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td><strong>forecasting:</strong> 10&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td><strong>perception:</strong> 10&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="section-head">
+                        <div class="sub-txt">
+                            <h3 class="nopad">Items</h3>
+                        </div>
+                    </div>
+                    <div class="section-body">
+                        <div class="sub-txt">
+                            <table style="width: 100%;">
+                                <tr>
+                                    <td>Compass&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td>Binoculars&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td>Fishing Rod x 5&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td>Lure Ball x 10&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="section-head">
+                        <div class="sub-txt">
+                            <h3 class="nopad">Notes</h3>
+                        </div>
+                    </div>
+                    <div class="section-body">
+                        <div class="sub-txt">
+                            <ul>
+                                <li>1 die added to attack rolls when battling in the forest</li>
+                                <li>Roll advantage on all skills used.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="title">
+                            <h2 class="nopad" style="padding-top:20px;">Class</h2>
+                        </div>
+            <div class="section-head" style="background:#CCCCFF;" onclick="hide('t_job')">
+                <div class="sub-txt">
+                    <h3 class="nopad">Camper/Picnicker</h3>
+                </div>
+            </div>
+            <div class="section-body" style="display:none;" id="t_job">
+                <div class="sub-section" style="border-bottom: 1px solid black;">
+                    <strong>Trainer Type:</strong> Independent Trainer
+                </div>
+                <div class="sub-section">
+                    Campers and their female counterparts called picnickers love doing just that. These trainers are equipped with all the skills needed to survive a night alone in the woods with their trusty Pokemon partners. That being said, they are normally most at home in the woods and normally use Pokemon found in such places, though many of these kids start out as hometown trainers and still retain their starting Pokemon as well.
+                </div>
+                <div class="sub-header">
+                    <h3 class="nopad">Starting Cash</h3>
+                </div>
+                <div class="sub-section">
+                    500P
+                </div>
+                <div class="sub-header">
+                    <h3 class="nopad">Skill Mods</h3>
+                </div>
+                <div class="sub-section">
+                    <table>
+                        <tr>
+                            <td><strong>camping:</strong> +2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td><strong>fishing:</strong> +2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td><strong>hunting:</strong> +2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td><strong>cooking:</strong> +2&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="sub-header">
+                    <h3 class="nopad">Benefits</h3>
+                </div>
+                <div class="sub-section">
+                    <ul>
+                        <li>1 die added to attack rolls when battling in the forest</li>
+                    </ul>
+                </div>
+                </div>
+                        <div class="title">
+                            <h2 class="nopad" style="padding-top:20px;">Perks</h2>
+                        </div>
+        <div class="section-head" onclick="hide('t_mod0')">
+            <div class="sub-txt" style="background: #CCFFDD">
+                <h3 class="nopad">Hard-Working</h3>
+            </div>
+        </div>
+        <div class="section-body" style="display:none;" id="t_mod0">
+            <div class="sub-section" style="border-bottom: 1px solid black;">
+                <strong>Type:</strong> Personality
+            </div>
+            <div class="sub-section">
+                This trainer may not be a genius, but what they lack in natural aptitude they make up for in grit and determination. This trainer has the “measure twice, cut once” mentality and has no problem covering their weaknesses with their strengths.
+            </div>
+            <div class="sub-header">
+                <h3 class="nopad">Effects</h3>
+            </div>
+            <div class="sub-section">
+                <ul>
+                    <li>-5 skill points during character creation</li>
+                    <li>Roll advantage on all skills used</li>
+                    <li>If playing as the academy student get +2 study points while studying and cannot fall asleep studying.</li>
+                </ul>
+            </div>
+        </div>
+                    </body>
+                </html>

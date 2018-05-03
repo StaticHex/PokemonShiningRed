@@ -1,0 +1,43 @@
+---------------------------------- 1/5/2018 REFS. -------------------------------------------
+train(##,rt2,rt2mn,rt2mx)
+b1 -- Forest pokemon stack
+b2 -- Lake pokemon stack
+b3 -- Mountain pokemon stack
+june_p -- june's pokemon
+paul_p -- paul's pokemon
+cliff_p -- cliff's pokemon
+keith_p -- keith's pokemon
+evan
+arthanis
+kian
+
+party -- all party pokemon
+
+---------------------------------- POKEMON FUNCTIONS ----------------------------------------
+def catch(ball_type=0):
+
+calcXP(mod=WILD): 
+---- (WILD, TRAINER, LEADER, CHAMPION)
+
+def giveOrder(trainer, owner=True):
+
+def setStat(s_name, s_mod=0, op=SET):
+---- (SET, MOD)
+
+def getStat(s_name):
+
+def setSkill(s_name, s_mod=0, op=SET):
+---- (SET, MOD)
+
+def getSkill(s_name):
+
+def heal()
+
+
+
+---------------------------------- OTHER FUNCTIONS ------------------------------------------
+def train(pkm,p_list=["Pidgey","Rattata"],min_lvl=1,max_lvl=5):
+
+def speechAttempt(player, t_speech, s_type="Persuasion"):
+
+def skillAttempt(p_skill,skill_l=5):

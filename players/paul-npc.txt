@@ -1,0 +1,1 @@
+Paul||67|125|204:68:68:34:34:34:204:100:100:10:20|10:0:0:10:15:2:0:0:0:0:0:0:0:0:10:2:0:0:0:0:15:0:0:0:0:0:0:0:0:0:0:0:0:0:10:0:10:0:0|0|Compass:1,Binoculars:1,Fishing Rod:5,Lure Ball:10|1000|0|Hard-Working|-|camperpicnicker|1 die added to attack rolls when battling in the forest:Roll advantage on all skills used.

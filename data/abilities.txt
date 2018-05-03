@@ -1,0 +1,125 @@
+0|Null|This ability does not exist.
+1|Air Lock|Eliminates the effects of weather (weather always clear).
+2|Arena Trap|Prevents the opposing pokemon from fleeing.
+3|Battle Armor|The Pokémon is protected against critical hits.
+4|Blaze|If remaining HP is less than 1/4 of max HP, add 1d10 to all fire attacks.
+5|Chlorophyll|Increases pokemon's SPD while weather is sunny.
+6|Clear Body|Prevents other Pokémon from lowering its stats.
+7|Cloud Nine|Eliminates the effects of weather (weather always clear).
+8|Color Change|Changes the Pokémon's type to the last move from opposing pokemon which hit.
+9|Compound Eyes|All pokemon's moves get accuracy increased by 10%.
+10|Cute Charm|Contact with the Pokémon may cause infatuation. Roll 19 or higher on 1d20 to infatuate oppsoing pokemon.
+11|Damp|Prevents the use of self-destructing moves.
+12|Drizzle|The Pokémon makes it rainy when it enters a battle.
+13|Drought|Turns the weather sunny when the Pokémon enters a battle.
+14|Early Bird|The Pokémon awakens quickly from sleep. -2 to sleep duration rolls
+15|Effect Spore|Contact may inflict status effect. Roll 1d20 for effect: 15~16 for sleep, Roll 17~18 for paralysis, Roll 19~20 for poison
+16|Flame Body|Contact with the Pokémon may burn the attacker. Roll 19 or higher on 1d20 to burn opposing pokemon.
+17|Flash Fire|Every time this pokemon is hit by a fire type move, add 1d10 to all fire type attacks made by this pokemon.
+18|Forecast|Castform transforms with the weather.
+19|Guts|If suffering from status effect, boost this pokemon's ATK by 20 points.
+20|Huge Power|Boosts pokemon's ATK by 20 points.
+21|Hustle|Boosts pokemon's ATK by 20 points, decreases accuracy of all pokemon's moves by 10%.
+22|Hyper Cutter|Prevents other Pokémon from lowering Attack stat.
+23|Illuminate|Raises the likelihood of meeting wild Pokémon.
+24|Immunity|Prevents the Pokémon from getting poisoned.
+25|Inner Focus|The Pokémon is protected from flinching.
+26|Insomnia|Prevents the Pokémon from falling asleep.
+27|Intimidate|Lowers the opposing pokemon's ATK by 20 points
+28|Keen Eye|Prevents other Pokémon from lowering accuracy.
+29|Levitate|Gives immunity to Ground type moves.
+30|Lightning Rod|Electric type moves can only target this pokemon. Increases pokemon's SP. ATK by 20 points every time it is hit with an electric attack.
+31|Limber|The Pokémon is protected from paralysis.
+32|Liquid Ooze|Damages attackers using any draining move. Roll 1d20 to determine damage
+33|Magma Armor|Prevents the Pokémon from becoming frozen.
+34|Magnet Pull|Prevents Steel-type Pokémon from escaping.
+35|Marvel Scale|Ups DEF by 20 points if pokemon is inflicted with a status effect.
+36|Minus|Increases this pokemon's SP. ATK by 20 points if another Pokémon has Plus or Minus.
+37|Natural Cure|All status effects are eliminated when it switches out.
+38|Oblivious|Prevents it from becoming infatuated.
+39|Overgrow|If remaining HP is less than 1/4 of max HP, add 1d10 to all grass attacks.
+40|Own Tempo|Prevents the Pokémon from becoming confused.
+41|Pickup|The Pokémon may pick up items randomly (GM determines what is picked up).
+42|Plus|Increases this pokemon's SP. ATK by 20 points if another Pokémon has Plus or Minus.
+43|Poison Point|Contact with the Pokémon may poison the attacker. Roll 19 or higher on 1d20 to poison opposing pokemon.
+44|Pressure|The Pokémon raises the opposing pokemon's PP usage from 1 per move to 2 per move.
+45|Pure Power|Raises the Pokémon's ATK by 20 points.
+46|Rain Dish|The Pokémon gradually regains HP in rain. While raining roll 1d20 and recover the amount of HP rolled.
+47|Rock Head|Protects the Pokémon from recoil damage.
+48|Rough Skin|Inflicts damage to the attacker on contact. Roll 1d20 and give damage equal to the amount rolled.
+49|Run Away|Enables a sure getaway from wild Pokémon.
+50|Sand Stream|The Pokémon summons a sandstorm in battle.
+51|Sand Veil|Boosts the Pokémon's evasion in a sandstorm. Accuracy of all attacks against this pokemon are reduced by 10%
+52|Serene Grace|Lower the targets for all status die rolls by 2 points. i.e. if you would have to roll 14 for an effect, you now only have to roll 12
+53|Shadow Tag|Prevents the opposing pokemon from escaping.
+54|Shed Skin|The Pokémon may heal its own status effects. Roll 17 or higher on 1d20 to heal status effect.
+55|Shell Armor|The Pokémon is protected against critical hits.
+56|Shield Dust|Blocks the added effects of attacks taken. No status die effects are applied other than critical hits.
+57|Soundproof|Gives immunity to "sound-based" moves.
+58|Speed Boost|At the start of each turn boost this pokemon's SPD by 10 points
+59|Static|Contact with the Pokémon may cause paralysis. Roll 19 or higher on 1d20 to paralyze opposing pokemon.
+60|Stench|The stench may cause the target to flinch. Roll 19 or higher on 1d20 to make opposing pokemon flinch.
+61|Sticky Hold|Protects the Pokémon from item theft.
+62|Sturdy|It cannot be knocked out with one hit.
+63|Suction Cups|Negates all moves that force switching out.
+64|Swarm|If remaining HP is less than 1/4 of max HP, add 1d10 to all bug attacks.
+65|Swift Swim|If raining, increase pokemon's SPD by 20 points.
+66|Synchronize|Passes a burn, poison, or paralysis to the opposing pokemon.
+67|Thick Fat|Ups resistance to Fire- and Ice-type moves. Roll an extra 1d10 when defending against these types of moves. Add 2 points to status die targets involving freeze an burn.
+68|Torrent|If remaining HP is less than 1/4 of max HP, add 1d10 to all water attacks.
+69|Trace|The Pokémon copies a opposing pokemon's Ability.
+70|Truant|Pokémon can't attack on consecutive turns. (Similar to having to recharge after using a move).
+71|Vital Spirit|Prevents the Pokémon from falling asleep.
+72|Volt Absorb|Restores HP if hit by an Electric-type move. Reduce any damage to 0 and roll 1d20, then restore the amount of HP rolled.
+73|Water Absorb|Restores HP if hit by a Water-type move. Reduce any damage to 0 and roll 1d20, then restore the amount of HP rolled.
+74|Water Veil|Prevents the Pokémon from getting a burn.
+75|White Smoke|Prevents other Pokémon from lowering its stats.
+76|Wonder Guard|Only supereffective moves will hit.
+77|Adaptability|Pokemon adds 1d10 to all attack rolls which are the same type as one of their types.
+78|Aftermath|When a Pokémon with this Ability faints due to damage from a move that makes contact, the attacking Pokémon takes damage equal to 1/4 of its own maximum HP.
+79|Anger Point|Increases ATK to 255 after taking a critical hit.
+80|Anticipation|Anticipation, it causes the Pokémon to "shudder" if any opponent has a damaging move that is super effective against the Pokémon with Anticipation, a one-hit knockout move, or Selfdestruct or Explosion.
+81|Bad Dreams|Reduces a sleeping opposing pokemon's HP. Sleeping pokemon take 1d20 of damage every turn they are asleep.
+82|Download|Raises either ATK or SP. ATK by 20 points depending on whether opposing pokemon's DEF or SP. DEF are weaker
+83|Dry Skin|HP is decreased by 20 points if weather is sunny. Roll 1d20 and restore the amount of HP rolled every turn while battling on water.
+84|Filter|Reduces damage from supereffective attacks. Remove 1d20 from all attack rolls involving super-effective damage.
+85|Flower Gift|Powers up party Pokémon when it is sunny. Add 1d10 to all attack rolls and all defense rolls involving SP. DEF made by the party.
+86|Forewarn|Forewarn shows the opponent's move with the highest power. If two or more moves are of the same power, one will be chosen at random.
+87|Frisk|The Pokémon can check a opposing pokemon's held item.
+88|Gluttony|Encourages the early use of a held Berry.
+89|Heatproof|Weakens the power of Fire-type moves. Subtract 1d20 from all fire type attacks made against this pokmeon. Add 2 points to all status die targets involving burn.
+90|Honey Gather|The Pokémon may gather Honey from somewhere. If not holding any items at the end of battle, roll 19 or higher on 1d20 to collect 1 honey and place it in the held item slot for this pokemon.
+91|Hydration|Heals status effects if it is raining.
+92|Ice Body|The Pokémon gradually regains HP in a hailstorm. Roll 1d20 and restore the amount of HP by the number rolled.
+93|Iron Fist|Boosts the power of punching moves. Add 1d10 to all attacks involving punching moves.
+94|Klutz|The Pokémon can't use any held items.
+95|Leaf Guard|Prevents status effects in sunny weather.
+96|Magic Guard|prevents indirect damage, such as from weather, poison, Curse, and Leech Seed, but it does not stop them from being induced. Additional effects, such as being trapped by binding moves (such as Fire Spin) and Attack reduction from a burn, are not prevented.
+97|Mold Breaker|eliminates the effects of many other Abilities which negate damage or side effects of moves.
+98|Motor Drive|Raises SPD by 20 if hit by an Electric-type move.
+99|Multitype|Changes type to match the held Plate.
+100|No Guard|Allows all the user's and the opposing pokemon's moves to never miss. This includes the semi-invulnerable turn of moves such as Dig, Fly and Skull Bash. It can also hit a Pokémon using Protect or Detect if the move has less than 100% accuracy.
+101|Normalize|All the Pokémon's moves become the Normal type.
+102|Poison Heal|Restores HP if the Pokémon is poisoned. Poison heals HP vs sapping it. (includes badly poisoned)
+103|Quick Feet|Boosts SPD by 20 points if the pokemon is affected by a status effect.
+104|Reckless|Powers up moves that have recoil damage. Add 1d10 to all attacks involving recoil damage.
+105|Rivalry|Deals more damage to a Pokémon of same gender. Add 1d10 to all attacks involving pokemon the same gender as the user.
+106|Scrappy|Enables moves to hit Ghost-type Pokémon.
+107|Simple|Doubles all stat changes.
+108|Skill Link|Increases the frequency of multi-strike moves. Roll 6 or higher vs 11 or higher to keep the move going.
+109|Slow Start|Halves ATK and SPD during the first turn of a battle.
+110|Sniper|Powers up moves if they become critical hits. Quadruple damage from critical hits vs. doubling.
+111|Snow Cloak|Raises evasion in a hailstorm. Decrease accuracy of all moves used against this pokemon by 10% while hailing.
+112|Snow Warning|The Pokémon summons a hailstorm in battle.
+113|Solar Power|In sunshine, SP. ATK is increased by 20 but HP decreases by 20.
+114|Solid Rock|Reduces damage from supereffective attacks. Subtract 1d20 from all attacks involving super-effective damage.
+115|Stall|The Pokémon moves after all other Pokémon do.
+116|Steadfast|Raises SPD by 20 points each time the Pokémon flinches.
+117|Storm Drain|Water type moves can only target this pokemon. Increases pokemon's SP. ATK by 20 points every time it is hit with an water attack.
+118|Super Luck|Heightens the critical-hit ratios of moves. Subtract 2 points from all status die targets involving critical hits.
+119|Tangled Feet|Decrease accuracy of all moves used against this pokemon by 10% if the Pokémon is confused.
+120|Technician|Powers up the Pokémon's weaker moves. Add 1d10 to all attacks involving water-type moves.
+121|Tinted Lens|Powers up “not very effective” moves. Add 1d20 to all attacks involving moves that are "not very effective".
+122|Unaware|Ignores any stat changes in the Pokémon.
+123|Unburden|Raises SPD by 20 if a held item is used (applies to single use hold items, not battle or transformation items).
+124|Shadowy Aura|Halves all damage done in combat. Decreases accuracy of all moves used against this pokemon by 10%
